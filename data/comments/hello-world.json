@@ -22,5 +22,13 @@
     "content": "xxxxxxx",
     "createdAt": 1610936907248,
     "id": "9WuQzr-h1f1kgg__y6S3E63raCrkGq"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "yyyyyy",
+    "createdAt": 1610936923483,
+    "id": "39JMp7hV-nFF-ZcY1az_wM6Spv1TiZ"
   }
 ]
